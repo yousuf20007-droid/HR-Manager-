@@ -1,0 +1,11 @@
+{
+  "name": "مدير الموارد البشرية - HR Manager",
+  "short_name": "HR Manager",
+  "description": "إدارة شاملة للموظفين: بطاقات هوية، تصاريح عمل، شهادات سلامة، حضور وانصراف، رواتب وأوفر تايم، إجازات ونهاية خدمة.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F2D4A",
+  "theme_color": "#0F2D4A",
+  "orientation": "any",
+  "icons": []
+}
